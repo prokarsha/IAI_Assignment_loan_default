@@ -1,5 +1,4 @@
-# IAI_Assignment_loan_default
-This dataset comprises information on various loan attributes and borrower demographics, providing insights into lending practices and borrower profiles. With details such as loan type, purpose, creditworthiness, and demographic factors, it offers a comprehensive view of lending activities and borrower characteristics.
+# IAI_Assignment_loan_default: This dataset comprises information on various loan attributes and borrower demographics, providing insights into lending practices and borrower profiles. With details such as loan type, purpose, creditworthiness, and demographic factors, it offers a comprehensive view of lending activities and borrower characteristics.
     ID: Unique identifier for each entry.
     year: Year of the loan.
     loan_limit: Limit of the loan.
